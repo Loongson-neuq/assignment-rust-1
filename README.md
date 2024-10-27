@@ -1,13 +1,16 @@
-# 从模板创建作业
+# Rust Base
 
-1. 从[Loongson-neuq/AssignmentTemplate](https://github.com/Loongson-neuq/AssignmentTemplate)创建一个新仓库。
+请阅读 [Rust 入门](https://loongson-neuq.pages.dev/p/os-week2-get-started-with-rust/) 和 [Rust 进阶](https://loongson-neuq.pages.dev/p/advanced-rust/) 。
 
-2. 添加必要的文件，在`README.md`中编写题目或提示，push到远程。
+## Installation
 
-3. 从 [classroom.github.com](https://classroom.github.com/)中创建一个作业。[本教室快速链接](https://classroom.github.com/classrooms/181616342-2024-neuq/new_assignments/new)
+在 Linux 上安装 rustup。
 
-4. 设置标题，deadline。设置starter code仓库为你刚才提交的仓库。确保Repository visibility为public
+## Rustlings
 
-5. Protected file paths中添加`.github`以及其他你不想学生修改的文件路径，点击右下角 Create assignment
+[Rustlings](https://rustlings.cool/) 是一个用于学习 Rust 编程语言的互动项目，主要由一系列小练习构成。这些练习通过修复或完成代码的方式帮助用户逐步掌握 Rust 的核心概念。Rustlings 的特点在于它轻量、直接，且易于上手，非常适合 Rust 新手，也很适合有其他语言经验的开发者在不需要复杂环境设置的情况下快速上手 Rust。
 
-6. 分发作业邀请链接
+按照 Rustlings 官网安装并使用。
+
+> 找不到 rustlings 命令？  
+> 将 `~/.cargo/bin` 添加到环境变量 PATH
