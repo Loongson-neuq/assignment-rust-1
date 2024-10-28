@@ -10,6 +10,10 @@
 
 自学 [Rust Book](https://rust-book.cs.brown.edu/) 第 1 - 3 章节，并完成里面的所有 Quizzes。
 
+## 猜数游戏
+
+阅读书中第二章的内容，自己建立项目设计一个自己的猜数游戏。你可以尝试添加更多内容。项目储存在该仓库下。
+
 ## Rustlings
 
 开始完成　Rustlings 练习题。Rustlings 包含 Rust 各方面的练习题，总共 110 道，包含 100 道基础题和 10 道算法数据结构题。
